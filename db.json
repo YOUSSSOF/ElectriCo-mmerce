@@ -1,0 +1,12 @@
+{
+  "products": {
+    "products": [
+      {
+        "id": "1",
+        "name": "Apple Mouse",
+        "price": "100",
+        "description": "A mouse made by Apple Inc. It is a small, light-weight mouse with a large button and a trackpad."
+      }
+    ]
+  }
+}
