@@ -1,16 +1,26 @@
-# book_ecommerce
+A complete ecommerce mobile application built with flutter frontend and django backend.
 
-A new Flutter project.
+Note : in project 'token' used where authentication needded and it is you 'JWT' token, so setup it first and then run the project :)
 
-## Getting Started
+Options -
 
-This project is a starting point for a Flutter application.
+Home Screen:
 
-A few resources to get you started if this is your first Flutter project:
+![f-e3](https://user-images.githubusercontent.com/93007857/174328351-b236074d-0a7e-4c4e-b5d0-95e6847d8a73.jpg)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+there are all the products in this screen and every user (authenticated or anonymous) can see them.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Product Details Screen:
+
+![f-e1](https://user-images.githubusercontent.com/93007857/174329002-3d6147ad-a0bc-45da-afae-053f54de66d1.jpg)
+
+  -Note: cart system didn't implemented.
+
+Admin Panel:
+
+![f-e2](https://user-images.githubusercontent.com/93007857/174329185-d183f951-3b4b-4690-8edb-1dcc118a4613.jpg)
+
+you can edit,delete and add new product in this screen. only admin user can access this page.
+
+
+For more information clone the repo and enjoy the full proj (:
